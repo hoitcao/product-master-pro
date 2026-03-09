@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# 环境变量
+.env
+
+# 测试结果（本地生成，不提交）
+test_results/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 旧版 txt 文件（已转为 .md）
+产品大师Pro.txt
+
+# CodeBuddy
+.codebuddy/
